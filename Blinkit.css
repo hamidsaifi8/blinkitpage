@@ -1,0 +1,36 @@
+#imgline1 {
+  border-radius: 50%;
+  height: 150px;
+  width: 150px;
+  box-shadow: 0px 2px 5px rgb(86, 85, 85), 0px 2px 5px rgb(96, 95, 95);
+}
+
+#content1 {
+  font-family: playball, sans-serif;
+  font-weight: bold;
+  /* font-style: italic; */
+  box-shadow: 0px 4px 4px 2px rgba(0, 0, 0, 0.2) inset;
+}
+h4 {
+  font-family: cursive;
+  font-weight: 500;
+}
+#imgline2 {
+  border-radius: 20px;
+  height: 400px;
+  width: 400px;
+}
+
+.mid {
+  display: inline-block;
+  font-family: cursive;
+}
+.card {
+  box-shadow: 0px 6px 8px 10px rgba(0, 0, 0, 0.3);
+}
+.carditem {
+  box-shadow: 0px 1px 5px gray, 0px 1px 5px gray;
+}
+.btn {
+  border: green 2px solid;
+}
